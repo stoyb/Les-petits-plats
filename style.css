@@ -1,0 +1,18 @@
+body {
+    padding: 0 100px;
+    margin: 0;
+}
+
+.logo__title {
+    color: #D04F4F;
+    font-size: 36px;
+    font-family: DM Sans;
+    font-weight: 700;
+}
+
+input {
+    background-color: #E7E7E7;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+}
